@@ -1,2 +1,2 @@
 # util
-various text modifications and scripts
+All various text modifications and scripts
